@@ -1,8 +1,8 @@
 # One Letter for Your Day — `Z`
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/competitions/u-puan-one-letter-for-your-day-e54e9c36?ref=25wtkm1p)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](main.py)
+[![make.fun · u-puan-one-letter-for-your-day-e54e9c36](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![rank](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/Revaaa28/makefun-one-letter-day-2/rank.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
+[![reward](https://make.fun/badge/u-puan-one-letter-for-your-day-e54e9c36/Revaaa28/makefun-one-letter-day-2/reward.svg)](https://make.fun/bounty/u-puan-one-letter-for-your-day-e54e9c36?utm_source=github&utm_medium=readme&utm_campaign=u-puan-one-letter-for-your-day-e54e9c36)
 
 A [make.fun](https://make.fun/competitions/u-puan-one-letter-for-your-day-e54e9c36?ref=25wtkm1p) bounty entry: send exactly one letter, A–Z, standing for the word that describes your day. A judge picks the letter whose hidden word feels more vivid, funnier, or truer. Free to enter, $5 shared by the top letters.
 
